@@ -1,0 +1,14 @@
+{
+    "name": "ceyleon/dilantest",
+    "description": "Test Plugin",
+    "type": "october-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chatura Dilan",
+            "email": "dilan@dilan.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
