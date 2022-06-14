@@ -1,5 +1,5 @@
 {
-    "name": "ceyleon/dilantest",
+    "name": "ceyleon/dilantest-plugin",
     "description": "Test Plugin",
     "type": "october-plugin",
     "license": "MIT",
