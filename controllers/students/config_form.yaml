@@ -1,0 +1,10 @@
+name: Students
+form: $/ceyleon/dilantest/models/student/fields.yaml
+modelClass: Ceyleon\Dilantest\Models\Student
+defaultRedirect: ceyleon/dilantest/students
+create:
+    redirect: 'ceyleon/dilantest/students/update/:id'
+    redirectClose: ceyleon/dilantest/students
+update:
+    redirect: ceyleon/dilantest/students
+    redirectClose: ceyleon/dilantest/students

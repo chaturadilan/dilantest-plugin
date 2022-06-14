@@ -1,0 +1,12 @@
+list: $/ceyleon/dilantest/models/student/columns.yaml
+modelClass: Ceyleon\Dilantest\Models\Student
+title: Students
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'ceyleon/dilantest/students/update/:id'

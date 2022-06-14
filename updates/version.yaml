@@ -1,0 +1,5 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table ceyleon_dilantest_students'
+    - builder_table_create_ceyleon_dilantest_students.php

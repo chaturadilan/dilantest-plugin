@@ -1,0 +1,11 @@
+plugin:
+    name: 'ceyleon.dilantest::lang.plugin.name'
+    description: 'ceyleon.dilantest::lang.plugin.description'
+    author: Ceyleon
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    dilstudent:
+        label: Students
+        url: ceyleon/dilantest/students
+        icon: icon-life-ring
