@@ -1,14 +1,13 @@
 {
     "name": "ceyleon/dilantest",
+    "version": "1.0.2",
     "description": "Test Plugin",
     "type": "october-plugin",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Chatura Dilan",
-            "email": "dilan@dilan.me"
-        }
-    ],
+    "authors": [{
+        "name": "Chatura Dilan",
+        "email": "dilan@dilan.me"
+    }],
     "minimum-stability": "dev",
     "require": {}
 }
