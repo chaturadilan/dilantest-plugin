@@ -8,5 +8,10 @@
         "email": "dilan@dilan.me"
     }],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
 }
